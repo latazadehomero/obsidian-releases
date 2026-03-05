@@ -19157,5 +19157,12 @@
     "author": "atman",
     "description": "Open images with your system's default application by double-clicking.",
     "repo": "atman-33/double-click-image-opener"
-  }
+  },
+  {
+  "id": "cornell-marginalia",
+  "name": "Cornell Marginalia",
+  "author": "Latazadehomero",
+  "description": "Renders Cornell-style marginal notes using the %%> ... %% syntax. Keeps your notes clean for flashcards and export.",
+  "repo": "latazadehomero/cornell-marginalia"
+}
 ]
